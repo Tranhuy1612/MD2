@@ -1,0 +1,56 @@
+.App {
+  margin-left: 50px;
+}
+
+.input {
+  width: 450px;
+  height: 27px;
+  border-radius: 5px;
+  outline: none;
+  background-color: antiquewhite;
+  border: 0;
+}
+
+.dark-mode {
+  margin-bottom: 10px;
+  background-color: black;
+  color: white;
+}
+
+.fa-magnifying-glass {
+  position: absolute;
+  top: 125px;
+  left: 52px;
+}
+
+.textarea {
+  display: flex;
+  gap: 40px;
+}
+
+.box {
+  border: 1px solid;
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 10px;
+  height: 150px;
+  background-color: aquamarine;
+  border: 0;
+}
+
+
+.above {
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: aquamarine;
+  border: 0;
+  outline: none;
+}
+
+.below {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 75px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
